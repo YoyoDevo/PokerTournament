@@ -16,7 +16,6 @@ public class Main extends Application {
         window = primaryStage;
         window.setTitle("Poker Tournament Director");
 
-
         VBox vBox = new VBox();
         Scene scene = new Scene(vBox);
         window.setScene(scene);
